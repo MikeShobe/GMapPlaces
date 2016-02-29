@@ -1,0 +1,19 @@
+{
+  "name": "gmap-places",
+  "version": "1.0.0",
+  "description": "UI design test featuring Google Maps places API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeShobe/GMapPlaces.git"
+  },
+  "author": "Mike S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeShobe/GMapPlaces/issues"
+  },
+  "homepage": "https://github.com/MikeShobe/GMapPlaces#readme"
+}
